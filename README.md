@@ -10,10 +10,11 @@ Skills:
 
 Interests: 
 
-    I'm always eager to learn new things and explore different areas of computer science.
-    I enjoy the problem-solving aspect of coding and finding creative solutions.
-    I'm open to collaborating on projects and learning from others.
+   - I'm always eager to learn new things and explore different areas of computer science.
+   - I enjoy the problem-solving aspect of coding and finding creative solutions.
+   - I'm open to collaborating on projects and learning from others.
 
 Let's Connect!
 
 I'm always interested in hearing about new projects and opportunities. Feel free to reach out to me!
+snehatumminakatti1@gmail.com
