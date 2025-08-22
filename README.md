@@ -1,4 +1,4 @@
-### Hi! I'm Sneha, a 2nd year Computer Science Engineering student with a passion for coding. 
+### Hi! I'm Sneha, a final year Computer Science Engineering student with a passion for coding. 
 ### I'm always looking for new and exciting projects to work on, and I'm always up for a challenge.
 ### I'm also a firm believer in the power of collaboration and learning from others.
 
